@@ -41,3 +41,7 @@
     align-items: center;
     justify-content: center;
  }
+.menu-time h2:nth-child(2),
+.menu-score h2:nth-child(2){
+    margin-top: 10px;
+}
